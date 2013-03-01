@@ -14,12 +14,5 @@
 /log/*.log
 /tmp
 
-/.project
-/.DS_Store
-.idea
-.sass-cache
-public/fb_test.html
-.idea_4.5
-public/assets/
-!public/assets/manifest.yml
-log
+#remove .idea
+/.idea/*
